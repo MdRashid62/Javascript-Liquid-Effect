@@ -5,5 +5,5 @@ new hoverEffect({
   image2: "/img/pic2.jpg",
   angle: Math.PI / 4,
 
-  displacementImage: "/img/diss.png",
+  displacementImage: "/img/strip.png",
 });
