@@ -4,5 +4,5 @@
 ###### You must run this project on localhost, then, it will work properly.
 ###### You can clone/download this project and edit it as you like.
 ###### Don't forget to give a star.
-###### Than You!
+###### Thank You!
 [Live Demo](https://liquid-image.web.app)
