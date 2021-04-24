@@ -1,4 +1,4 @@
-# Liquid Image Animation
+# Liquid 
 
 ### Liquid image animation made with JavaScript.
 ###### You must run this project on localhost, then, it will work properly.
