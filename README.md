@@ -1,6 +1,6 @@
 # Liquid Image Animation
 
-### Liquid image animation made with JavaScript. 0
+### Liquid image animation made with JavaScript.
 ###### You must run this project on localhost, then, it will work properly.
 ###### You can clone/download this project and edit it as you like.
 ###### Don't forget to give a star.
